@@ -1,1 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="Giovanyeeeh" fetch="https://github.com/Giovanyeeeh" />
+            
+  <project path="device/motorola/channel" name="android_device_motorola_channel" remote="Giovanyeeeh" revision="lineage-18.1" />
+  <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="Giovanyeeeh" revision="lineage-18.1" />
+  <project path="kernel/motorola/sdm632" name="ndroid_kernel_motorola_sdm632" remote="Giovanyeeeh" revision="lineage-18.1" />
+  <project path="device/motorola/sdm632-common" name="android_device_motorola_sdm632-common" remote="Giovanyeeeh" revision="lineage-18.1" />
 
+</manifest>
